@@ -1,0 +1,143 @@
+Species,Family,MaxSizeTL,MaxSizeTL_Prod,Diet,Position,a,b
+Abudefduf sexfasciatus,Pomacentridae,15,16,Plktiv,BtPlAs,0.02138,3.04
+Abudefduf sordidus,Pomacentridae,25,24,Omnivr,BtPlDw,0.0195,3.03
+Abudefduf vaigiensis,Pomacentridae,20,20,Plktiv,BtPlDw,0.02455,3.01
+Acanthurus leucosternon,Acanthuridae,50,54,HerDet,BtPlDw,0.01905,2.94
+Acanthurus lineatus,Acanthuridae,40,38,HerDet,BtPlDw,0.01778,2.97
+Acanthurus mata,Acanthuridae,50,50,Plktiv,BtPlDw,0.02512,2.94
+Acanthurus nigricauda,Acanthuridae,40,40,HerDet,BtPlDw,0.02089,2.95
+Acanthurus nigrofuscus,Acanthuridae,20,21,HerDet,BtPlDw,0.02089,2.96
+Acanthurus tennentii,Acanthuridae,30,31,HerDet,BtPlDw,0.01905,2.95
+Acanthurus triostegus,Acanthuridae,25,27,HerDet,BtPlDw,0.02042,2.96
+Aethaloperca rogaa,Serranidae,60,60,FisCep,BnthDw,0.01445,3.09
+Amblyglyphidodon leucogaster,Pomacentridae,15,13,Plktiv,BtPlDw,0.01585,2.96
+Anampses caeruleopunctatus,Labridae,40,42,InvMob,BnthDw,0.01072 ,3.04 
+Anampses meleagrides,Labridae,20,22,InvMob,BnthDw,0.01072 ,3.04 
+Aphareus furca,Lutjanidae,70,70,FisCep,BtPlDw,0.01585,2.94
+Apolemichthys trimaculatus,Pomacanthidae,25,26,InvSes,BnthDw,0.02512,2.9
+Aprion virescens,Lutjanidae,120,112,FisCep,PelgAs,0.01445 ,2.94 
+Arothron meleagris,Tetraodontidae,50,50,InvSes,BnthDw,0.03388,2.87
+Arothron nigropunctatus,Tetraodontidae,35,33,InvSes,BnthDw,0.02138,2.87
+Balistapus undulatus,Balistidae,30,30,InvMob,BtPlDw,0.03467,3
+Balistoides viridescens,Balistidae,80,75,InvMob,BtPlDw,0.03236,2.97
+Calotomus carolinus,Scaridae,50,54,HerDet,BtPlDw,0.0123,3.13
+Cantherhines pardalis,Monacanthidae,25,25,Omnivr,BnthDw,0.01698,2.91
+Carangoides ferdau,Carangidae,70,70,FisCep,PelgAs,0.01905,2.95
+Caranx melampygus,Carangidae,120,126,FisCep,PelgAs,0.01738,2.95
+Carcharhinus melanopterus,Carcharhinidae,200,200,FisCep,PelgAs,0.00468,3.04
+Centropyge multispinis,Pomacanthidae,15,14,InvSes,BnthDw,0.0263,2.87
+Cephalopholis argus,Serranidae,60,60,FisCep,BnthDw,0.01175,3.04
+Cephalopholis nigripinnis,Serranidae,30,28,FisCep,BnthDw,0.0123,3.04
+Cephalopholis spiloparaea,Serranidae,30,30,FisCep,BnthDw,0.01549,3.07
+Cetoscarus bicolor,Scaridae,70,65,HerDet,BtPlDw,0.01349,3.03
+Chaetodon auriga,Chaetodontidae,25,23,InvMob,BnthDw,0.02512,2.99
+Chaetodon falcula,Chaetodontidae,20,20,InvSes,BnthDw,0.02344,3.01
+Chaetodon guttatissimus,Chaetodontidae,10,12,InvSes,BnthDw,0.02344,3.01
+Chaetodon kleinii,Chaetodontidae,15,15,InvSes,BnthDw,0.0302,3.04
+Chaetodon meyeri,Chaetodontidae,20,20,InvSes,BnthDw,0.02344,3.01
+Chaetodon trifascialis,Chaetodontidae,20,18,InvSes,BnthDw,0.02138,2.96
+Chaetodon trifasciatus,Chaetodontidae,15,15,InvSes,BnthDw,0.02344,3.06
+Chaetodon xanthocephalus,Chaetodontidae,20,20,InvSes,BnthDw,0.02344,3.01
+Chaetodon zanzibarensis,Chaetodontidae,10,12,InvSes,BnthDw,0.02344,3.01
+Cheilinus fasciatus,Labridae,50,52,InvMob,BtPlDw,0.01413,2.95
+Cheilinus trilobatus,Labridae,50,45,InvMob,BtPlDw,0.01905,3
+Chlorurus capistratoides,Scaridae,40,40,HerDet,BtPlDw,0.01413,3.04
+Chlorurus enneacanthus,Scaridae,50,50,HerDet,BtPlDw,0.01413,3.04
+Chlorurus sordidus,Scaridae,40,40,HerDet,BtPlDw,0.01549,3.06
+Chlorurus strongylocephalus,Scaridae,70,70,HerDet,BtPlDw,0.01413,3.04
+Chromis atripectoralis,Pomacentridae,10,12,Plktiv,BtPlDw,0.02042,3.07
+Chromis dimidiata,Pomacentridae,10,9,Plktiv,BtPlDw,0.01698,3
+Chromis viridis,Pomacentridae,10,10,Plktiv,BtPlDw,0.01995,2.9
+Chromis weberi,Pomacentridae,15,14,Plktiv,BtPlDw,0.017,3.13
+Chrysiptera brownriggii,Pomacentridae,8,8,Omnivr,BnthDw,0.01479,2.99
+Cirrhitichthys oxycephalus,Cirrhitidae,10,10,InvMob,BnthDw,0.01413,3.02
+Ctenochaetus binotatus,Acanthuridae,20,22,HerDet,BtPlDw,0.03236,2.94
+Ctenochaetus striatus,Acanthuridae,25,26,HerDet,BtPlDw,0.02042,2.97
+Ctenochaetus truncatus,Acanthuridae,15,16,HerDet,BtPlDw,0.02042,2.96
+Dascyllus aruanus,Pomacentridae,10,10,Plktiv,BnthDw,0.02884,2.97
+Epibulus insidiator,Labridae,70,71,FisCep,BnthDw,0.01905,2.97
+Epinephelus fuscoguttatus,Serranidae,120,120,FisCep,BnthDw,0.01047,3.03
+Epinephelus merra,Serranidae,30,32,FisCep,BnthDw,0.01175,3.04
+Gomphosus caeruleus,Labridae,30,32,InvMob,BtPlDw,0.00955,3.03
+Halichoeres cosmetus,Labridae,15,13,InvMob,BtPlDw,0.01047,3.06
+Halichoeres hortulanus,Labridae,25,27,InvMob,BtPlDw,0.01096 ,3.05 
+Halichoeres marginatus,Labridae,20,18,InvMob,BtPlDw,0.01122,3.10 
+Halichoeres scapularis,Labridae,20,20,InvMob,BtPlDw,0.01072,3.11
+Hemigymnus fasciatus,Labridae,50,50,InvMob,BtPlDw,0.01122,3.04
+Hemigymnus melapterus,Labridae,60,60,InvMob,BtPlDw,0.01259,3.04
+Heniochus monoceros,Chaetodontidae,25,24,InvMob,BtPlDw,0.01905,3.06
+Hipposcarus harid,Scaridae,80,75,HerDet,BtPlDw,0.01349,3.03
+Kyphosus cinerascens,Kyphosidae,50,50,HerMac,PelgDw,0.01549,3.02
+Labrichthys unilineatus,Labridae,20,18,InvSes,BnthDw,0.01096 ,3.05 
+Labroides bicolor,Labridae,15,15,InvMob,BtPlDw,0.00468,3.12
+Labroides dimidiatus,Labridae,15,14,InvMob,BtPlDw,0.00603 ,3.16 
+Lethrinus erythracanthus,Lethrinidae,70,70,InvMob,BnthDw,0.01202,2.99
+Lutjanus bohar,Lutjanidae,100,90,FisCep,BtPlDw,0.01259,3
+Lutjanus gibbus,Lutjanidae,50,50,InvMob,BtPlDw,0.01514,2.98
+Lutjanus kasmira,Lutjanidae,40,40,InvMob,BtPlDw,0.01479,2.98
+Lutjanus monostigma,Lutjanidae,60,60,FisCep,BtPlDw,0.0138,2.96
+Macolor niger,Lutjanidae,80,75,FisCep,PelgAs,0.01585,2.98
+Melichthys indicus,Balistidae,25,25,InvMob,BtPlDw,0.0257,2.94
+Monotaxis grandoculis,Lethrinidae,60,60,InvMob,BtPlDw,0.02291,2.99
+Mulloidichthys flavolineatus,Mullidae,40,43,InvMob,BtPlDw,0.01072,3.08
+Myripristis vittata,Holocentridae,25,25,InvMob,BtPlDw,0.01698,3.05
+Naso annulatus,Acanthuridae,100,100,Plktiv,PelgDw,0.02239,2.98
+Naso brachycentron,Acanthuridae,100,105,HerMac,BtPlDw,0.01995,3
+Naso hexacanthus,Acanthuridae,80,79,Plktiv,PelgDw,0.02188,2.99
+Naso lituratus,Acanthuridae,60,60,HerMac,BtPlDw,0.02512,2.97
+Naso unicornis,Acanthuridae,70,74,HerMac,BtPlDw,0.02344,2.95
+Naso vlamingii,Acanthuridae,60,60,Plktiv,BtPlDw,0.0263,3.01
+Ostracion meleagris,Ostraciidae,25,25,InvSes,BtPlDw,0.03548,2.81
+Oxycheilinus digramma,Labridae,50,48,FisCep,BtPlDw,0.01905,2.95
+Oxymonacanthus longirostris,Monacanthidae,10,12,InvSes,BnthDw,0.0182,2.9
+Paracirrhites arcatus,Cirrhitidae,15,14,InvMob,BnthDw,0.01122,3.07
+Paracirrhites forsteri,Cirrhitidae,20,22,FisCep,BnthDw,0.01122 ,3.07 
+Parapercis millepunctata,Pinguipedidae,20,18,InvMob,BnthAs,0.00646,3.09
+Parupeneus barberinus,Mullidae,60,60,InvMob,BnthDw,0.01122,3.07
+Parupeneus bifasciatus,Mullidae,35,35,InvMob,BnthDw,0.00794,3.18
+Parupeneus cyclostomus,Mullidae,50,50,FisCep,BnthDw,0.01072 ,3.08 
+Parupeneus macronemus,Mullidae,40,40,InvMob,BnthDw,0.00933,3.14
+Parupeneus trifasciatus,Mullidae,35,35,InvMob,BnthDw,0.00794,3.18
+Platax orbicularis,Ephippidae,50,50,Omnivr,BtPlAs,0.02951,2.97
+Plectorhinchus orientalis,Haemulidae,80,81,InvMob,BtPlDw,0.01349,3.01
+Plectroglyphidodon dickii,Pomacentridae,10,11,Omnivr,BnthDw,0.02239,2.99
+Plectroglyphidodon johnstonianus,Pomacentridae,15,14,Omnivr,BnthDw,0.02291,2.96
+Plectroglyphidodon lacrymatus,Pomacentridae,10,10,Omnivr,BnthDw,0.02089,2.99
+Plectropomus areolatus,Serranidae,80,80,FisCep,BnthDw,0.01122,3.04
+Plectropomus laevis,Serranidae,120,125,FisCep,BnthDw,0.00977,3.06
+Pomacanthus imperator,Pomacanthidae,50,47,InvSes,BtPlDw,0.03467,2.92
+Pomacentrus caeruleus,Pomacentridae,10,10,Omnivr,BnthDw,0.01514,2.95
+Pomacentrus indicus,Pomacentridae,10,11,HerDet,BnthDw,0.02291,2.99
+Pomacentrus taeniometopon,Pomacentridae,10,12,HerDet,BnthDw,0.02291,2.99
+Pomacentrus wardi,Pomacentridae,10,10,HerDet,BnthDw,0.02344,2.99
+Pseudocheilinus hexataenia,Labridae,10,10,InvMob,BnthDw,0.01380 ,2.96 
+Pygoplites diacanthus,Pomacanthidae,30,31,InvSes,BtPlDw,0.01995,2.9
+Sargocentron spiniferum,Holocentridae,50,54,InvMob,BtPlDw,0.01698,3
+Scarus caudofasciatus,Scaridae,50,50,HerDet,BtPlDw,0.01445,3.04
+Scarus falcipinnis,Scaridae,60,60,HerDet,BtPlDw,0.01445,3.04
+Scarus frenatus,Scaridae,50,47,HerDet,BtPlDw,0.02138,3.09
+Scarus ghobban,Scaridae,80,75,HerDet,BtPlDw,0.01445,3.04
+Scarus globiceps,Scaridae,50,45,HerDet,BtPlDw,0.01047,3.09
+Scarus niger,Scaridae,40,40,HerDet,BtPlDw,0.01549,3.11
+Scarus prasiognathos,Scaridae,70,70,HerDet,BtPlDw,0.01122,3.08
+Scarus psittacus,Scaridae,35,35,HerDet,BtPlDw,0.01585,3.05
+Scarus rubroviolaceus,Scaridae,70,70,HerDet,BtPlDw,0.01318,3.09
+Scarus scaber,Scaridae,35,37,HerDet,BtPlDw,0.0138,3.01
+Scarus tricolor,Scaridae,35,37,HerDet,BtPlDw,0.01778,3.08
+Siganus argenteus,Siganidae,40,40,HerDet,BtPlDw,0.01479,2.99
+Stegastes fasciolatus,Pomacentridae,15,16,HerDet,BnthDw,0.0251,3.04
+Stegastes gascoynei,Pomacentridae,15,15,HerDet,BnthDw,0.0195,2.99
+Stegastes lividus,Pomacentridae,10,11,HerDet,BnthDw,0.0195,2.99
+Stegastes nigricans,Pomacentridae,15,14,Omnivr,BnthDw,0.02455,3.02
+Stethojulis albovittata,Labridae,15,14,InvMob,BnthDw,0.01072,3.05
+Stethojulis strigiventer,Labridae,15,15,InvMob,BnthDw,0.00891 ,2.98 
+Sufflamen chrysopterus,Balistidae,30,30,InvMob,BtPlDw,0.01995,2.95
+Thalassoma amblycephalum,Labridae,20,20,Plktiv,BtPlDw,0.00977 ,3.01 
+Thalassoma hardwicke,Labridae,20,20,InvMob,BnthDw,0.01023 ,3.04 
+Thalassoma hebraicum,Labridae,25,23,InvMob,BnthDw,0.01288,3.05
+Thalassoma purpureum,Labridae,50,46,InvMob,BnthDw,0.01318,3.05
+Thalassoma quinquevittatum,Labridae,15,17,InvMob,BnthDw,0.01,3.02
+Variola louti,Serranidae,80,83,FisCep,BnthDw,0.01096,3.03
+Zanclus cornutus,Zanclidae,25,23,InvSes,BnthDw,0.01698,3.06
+Zebrasoma desjardinii,Acanthuridae,40,40,HerDet,BtPlDw,0.02042,2.96
+Zebrasoma scopas,Acanthuridae,25,25,HerDet,BtPlDw,0.02138,2.98
